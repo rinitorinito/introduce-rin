@@ -1,0 +1,39 @@
+
+    
+.rin {
+color:black ;
+background-color:#FFA594;
+border-radius: 10px;
+margin: 10px;
+padding: 10px;
+width: 150px;
+height: 350px;
+font-family: 'Bangers', cursive;
+list-style: none;
+}
+.span {
+    color:white ;
+}
+h1 {
+    font-size: 70px;
+    background-color:#FFA594;
+    border-radius: 10px;
+    font-family: 'Bangers', cursive;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.rin img{
+width: 150px;
+height: 150px;
+    
+}
+.body {
+    background-color: #EB97A8;
+}
+.pictures {
+    color: black;
+    font-family: 'Bangers', cursive;
+}
