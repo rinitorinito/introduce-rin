@@ -6,11 +6,11 @@ background-color:#FFE971;
 border-radius: 10px;
 margin: 10px;
 padding: 10px;
-width: 155px;
+width: 200px;
 height: 180px;
 font-family: 'Bangers', cursive;
 list-style: none;
-font-size: 8px;
+font-size: 6px;
 }
 .span {
     color:white ;
@@ -28,7 +28,7 @@ h1 {
 .container {
     display: flex;
     justify-content: center;
-    padding: 15px;
+    padding: 1px;
 }
 .rin img{
 width: 100px;
