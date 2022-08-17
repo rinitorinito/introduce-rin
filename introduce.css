@@ -2,38 +2,46 @@
     
 .rin {
 color:black ;
-background-color:#FFA594;
+background-color:#FFE971;
 border-radius: 10px;
 margin: 10px;
 padding: 10px;
-width: 150px;
-height: 350px;
+width: 155px;
+height: 200px;
 font-family: 'Bangers', cursive;
 list-style: none;
 }
 .span {
     color:white ;
 }
+.face img {
+width: 200px;
+height: 300px;
+}
 h1 {
     font-size: 70px;
-    background-color:#FFA594;
+    background-color:#FFE971;
     border-radius: 10px;
     font-family: 'Bangers', cursive;
 }
 .container {
     display: flex;
     justify-content: center;
-    padding: 20px;
+    padding: 15px;
 }
 .rin img{
-width: 150px;
+width: 120px;
 height: 150px;
     
 }
 .body {
-    background-color: #EB97A8;
+    background-color:#FFE971 ;
 }
 .pictures {
     color: black;
     font-family: 'Bangers', cursive;
+}
+.pictures img {
+    width: 200px;
+    height: 300px;
 }
