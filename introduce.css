@@ -1,0 +1,48 @@
+
+    
+.rin {
+color:black ;
+background-color:#FFE971;
+border-radius: 10px;
+margin: 10px;
+padding: 10px;
+width: 200px;
+height: 180px;
+font-family: 'Bangers', cursive;
+list-style: none;
+font-size: 6px;
+}
+.span {
+    color:white ;
+}
+.face img {
+width: 100px;
+height: 150px;
+}
+h1 {
+    font-size: 20px;
+    background-color:#FFE971;
+    border-radius: 5px;
+    font-family: 'Bangers', cursive;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+}
+.rin img{
+width: 100px;
+height: 130px;
+    
+}
+.body {
+    background-color:#FFE971 ;
+}
+.pictures {
+    color: black;
+    font-family: 'Bangers', cursive;
+}
+.pictures img {
+    width: 100px;
+    height: 150px;
+}
